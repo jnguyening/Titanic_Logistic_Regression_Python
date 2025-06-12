@@ -1,3 +1,5 @@
 # Titanic Survival Prediction Using Logistic Regression (Python)
 
-This repository contains a Python-based machine learning project that uses **logistic regression** to predict passenger survival on the Titanic. The analysis is based on the classic [Kaggle Titanic dataset](https://www.kaggle.com/competitions/titanic), a common beginner-friendly dataset used to introduce supervised classification models.
+## Overview
+
+This project uses logistic regression to predict passenger survival from the Titanic dataset. By cleaning the data, engineering relevant features, and applying a supervised classification model, the analysis demonstrates how logistic regression can be used to tackle binary classification problems. The goal is to identify which factors—such as age, gender, class, and fare—most influenced the likelihood of survival, providing both predictive insights and a foundation for understanding logistic regression in Python.
